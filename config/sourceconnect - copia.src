@@ -1,0 +1,28 @@
+; son comentarios xD
+PATH =  localhost
+TYPE = mysql
+DB  =  sistdelivery
+USER                 =  root
+PWS  =
+;
+;Esta es la ruta del server para la pagina D:\home\site\wwwroot
+;PATH = 160.153.52.229
+;USER = deliveryaqp
+;PWS  = 123456789
+;DB = sistdelivery
+;TYPE = mysql
+
+;TblBebidas, BASE TABLE
+;TblCaldos, BASE TABLE
+;TblCliente, BASE TABLE
+;TblCocinero, BASE TABLE
+;TblLoginCliente, BASE TABLE
+;TblLoginRepartidores, BASE TABLE
+;TblLoginRest, BASE TABLE
+;TblMenuDia, BASE TABLE
+;TblPedidos, BASE TABLE
+;TblPostres, BASE TABLE
+;TblRepartidores, BASE TABLE
+;TblRestaurantes, BASE TABLE
+;TblSegundos, BASE TABLE
+
